@@ -1,1 +1,32 @@
 Hello Hedgehogs!
+Order Book Exchange Brainstorm!
+
+OrderBookExchange
+
+- Accounts
+
+-- id
+-- name
+--balance
+--timestamp_created
+--assets
+--orders
+
+- Order Books
+
+--id
+--name
+--ticker
+--buys
+--sells
+
+- Order
+--id
+--timestamp_created
+--quantity
+--type (buy / sell)
+--account_id
+--status (open / closed)
+
+
+    
